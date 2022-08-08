@@ -9,6 +9,11 @@ body {
 	background: linear-gradient(to right, red , yellow); /* Standard syntax */
 }
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 h1 {
     font: 600 3.5em 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);
