@@ -7,7 +7,6 @@ body {
     letter-spacing: .5em;
     top: 15%;
 	background: linear-gradient(to right, red , yellow); /* Standard syntax */
-    word-break: break-word;
 }
 
 h1 {
@@ -25,5 +24,5 @@ h3 {
     text-align: center;
     text-transform: none;
     letter-spacing: 0.01em;
-
+    word-break: break-word;
 }
